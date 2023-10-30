@@ -1,2 +1,2 @@
 # CodeClauseInternship_Resume
-Resume Making by htm nd css
+Resume Making by html  and css
